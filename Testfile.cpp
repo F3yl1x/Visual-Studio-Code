@@ -2,7 +2,7 @@
 
 int main()
 {
-    cout<<"Felix ist nicee"<<endl;
+    cout<<"Felix ist niceee"<<endl;
 
     return EXIT_SUCCESS;
 }
